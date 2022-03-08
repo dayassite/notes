@@ -1,0 +1,40 @@
+h1{
+    padding: 10px;
+    margin: 0;
+    margin-left: 1px;
+    background-color: rgb(11, 218, 11);
+    color: white;
+    text-align: center;
+} 
+nav{ 
+    margin: 0;
+    background-color: rgb(160, 247, 110);
+    color: rgb(32, 9, 241);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 1px;
+   }
+nav a{
+    padding: 1px 7px;
+    text-decoration: none;
+}
+
+nav a:hover{
+    background-color:rgb(48, 19, 209);
+    color:white;
+}
+  body{
+    background-color: rgb(241, 207, 236);
+    padding-left: 5px;
+    padding-right: 5px;
+    text-align: justify;}
+p{
+    column-width: 250px;
+    column-gap: 25px;
+}
+footer{
+    background-color: rgb(64, 207, 95);
+    color: rgb(32, 9, 241);
+    padding-bottom: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
